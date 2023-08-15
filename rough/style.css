@@ -60,6 +60,12 @@
   color: var(--CTO-hover-background-brown);
 }
 
+.brand-name p {
+  font-size: 25px;
+  font-weight: 800;
+  color: var(--white);
+}
+
 nav {
   display: flex;
   position: relative;
